@@ -70,3 +70,52 @@ Feel free to explore my repositories to see the projects I'm working on and have
 
 [![LinkedIn](https://img.icons8.com/color/linkedin-circled--v1.png)](https://linkedin.com/in/vikasvasireddy/) 
 [![Resume](https://img.icons8.com/color/open-resume.png)](URL-to-your-resume)
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        /* Styling for buttons */
+        .social-btn {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            text-align: center;
+            color: #fff;
+            background-color: #007bff; /* Change color as needed */
+            cursor: pointer;
+            text-decoration: none;
+        }
+        /* Styling for button icons */
+        .social-btn i {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- LinkedIn button -->
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="social-btn">
+    <i class="fab fa-linkedin"></i> Connect with LinkedIn
+</a>
+
+<!-- Gmail button -->
+<a href="mailto:youremail@gmail.com" class="social-btn">
+    <i class="far fa-envelope"></i> Email me
+</a>
+
+<!-- Font Awesome script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+
+</body>
+</html>
+
